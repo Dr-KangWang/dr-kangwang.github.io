@@ -1,7 +1,7 @@
-
-# This is a test
+# Horizon
+## This is a test
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-# this is another title
+## this is another title
 
