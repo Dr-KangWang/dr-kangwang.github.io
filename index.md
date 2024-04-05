@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: default
 ---
@@ -20,4 +21,12 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
+=======
+# Horizon
+## This is a test
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+## this is another title
+>>>>>>> ccdd917f80de083d4ddccc53638a2d189cfac801
 
