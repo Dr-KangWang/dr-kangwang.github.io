@@ -1,3 +1,5 @@
-title: Horizon
+title: Test_horizon
 description: github pages testing
 remote_theme: pages-themes/tactile@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
