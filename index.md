@@ -10,6 +10,6 @@ We provide candybox, news, and our reseach progress & publications.
 
 **News** provides the lastest milestone in interconnection techniques.
 
-| [Candybox](./candybox/candybox.html)  | [News](./news/news.html) | 
+| [Candybox](./candybox.html)  | [News](./news.html) | 
 
 
